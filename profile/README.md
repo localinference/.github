@@ -20,7 +20,7 @@ The Local Inference project aims to:
 LI models are distributed in the **ONNX format**, allowing them to run across many environments including:
 
 - Node.js
-- Browsers (WebAssembly / WebGPU runtimes)
+- Browsers
 - Python
 - Native runtimes supporting ONNX
 
